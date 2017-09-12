@@ -1,5 +1,8 @@
 <img src=https://github.com/StickAndBindleGames/stickandbindlegames.github.io/blob/master/Images/%20Logo.png>
 <br>
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 # Procedural Music Generator
 <br>
 ## A procedural music generator that allows you to create configurations to play and edit music that's generated in real-time for your game. 
