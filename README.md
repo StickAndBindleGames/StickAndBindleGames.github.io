@@ -20,10 +20,10 @@
 - The perfect solution for quick and custom game jam music!
 
 ### Linux:
-[Link](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Linux)
+[Download for Linux](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Linux)
 
 ### Mac:
-[Link](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Mac)
+[Download for Mac](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Mac)
 
 ### Windows:
-[Link](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Win)
+[Download for Windows](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Win)
