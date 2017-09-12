@@ -1,5 +1,6 @@
 <img src="Images/Logo.png" alt="" class="inline"/>
-![Image](Images/Logo.png")
+![Image](Images/Logo.png)
+![Image](https://github.com/StickAndBindleGames/stickandbindlegames.github.io/blob/master/Images/%20Logo.png)
 # Procedural Music Generator
 
 ## A procedural music generator that allows you to create configurations to play and edit music that's generated in real-time for your game. 
