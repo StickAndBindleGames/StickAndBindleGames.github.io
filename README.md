@@ -19,7 +19,8 @@
 
 - The perfect solution for quick and custom game jam music!
 
-## Please download the editor to see if it will suit your needs (while I think it's a fine generator, it's by no means a 1-1 replacement for custom music by a composer). The downloads below will allow you to create and play configurations but does not support incorporating those configurations into your game or app. For the full generator please visit: https://www.assetstore.unity3d.com/#!/content/99791
+## Demo:
+# Please download the editor to see if it will suit your needs (while I think it's a fine generator, it's by no means a 1-1 replacement for custom music by a composer). The downloads below will allow you to create and play configurations but does not support incorporating those configurations into your game or app. For the full generator please visit the unity asset store page [here](https://www.assetstore.unity3d.com/#!/content/99791)
 
 ### Linux:
 [Download for Linux](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Linux)
