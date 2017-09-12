@@ -1,5 +1,5 @@
 <img src="Images/Logo.png" alt="" class="inline"/>
-
+![Image](Images/Logo.png")
 # Procedural Music Generator
 
 ## A procedural music generator that allows you to create configurations to play and edit music that's generated in real-time for your game. 
@@ -18,6 +18,8 @@
 - Edit instrument or global audio effects
 
 - The perfect solution for quick and custom game jam music!
+
+## Please download the editor to see if it will suit your needs (while I think it's a fine generator, it's by no means a 1-1 replacement for custom music by a composer). The downloads below will allow you to create and play configurations but does not support incorporating those configurations into your game or app. For the full generator please visit: https://www.assetstore.unity3d.com/#!/content/99791
 
 ### Linux:
 [Download for Linux](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Linux)
