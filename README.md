@@ -1,4 +1,4 @@
-<img src="Images/Logo.png" alt="hi" class="inline"/>
+<img src="Images/Logo.png" alt="" class="inline"/>
 
 # Procedural Music Generator
 
