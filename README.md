@@ -2,7 +2,7 @@
 
 # Procedural Music Generator
 
-##A procedural music generator that allows you to create configurations to play and edit music that's generated in real-time for your game. 
+## A procedural music generator that allows you to create configurations to play and edit music that's generated in real-time for your game. 
 
 **Features:**
 - Over 100+ instruments and percussion to choose from.
@@ -19,11 +19,11 @@
 
 - The perfect solution for quick and custom game jam music!
 
-###Linux:
+### Linux:
 [Link](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Linux)
 
-###Mac:
+### Mac:
 [Link](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Mac)
 
-###Windows:
+### Windows:
 [Link](https://github.com/StickAndBindleGames/ProceduralMusicPlayer_Win)
