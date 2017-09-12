@@ -1,6 +1,6 @@
 <img src=https://github.com/StickAndBindleGames/stickandbindlegames.github.io/blob/master/Images/%20Logo.png>
 <br>
-![Logo](/Images/Logo.png)
+![Logo](https://github.com/StickAndBindleGames/stickandbindlegames.github.io/blob/master/Images/%20Logo.png)
 
 
 # Procedural Music Generator
