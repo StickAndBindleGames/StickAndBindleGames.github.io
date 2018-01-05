@@ -8,13 +8,10 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 
 ## Professional:
 ### [NHL Supercard](https://www.2k.com/games/nhl-supercard)
-Programmer (Wahoo Studios): C++, proprietary engine.
-
-Developer: CatDaddy Games.
-
-Published by 2K Games.
-
-Platform: IOS, Android.
+-Capacity: Programmer/ Game Developer (Wahoo Studios): C++, proprietary engine.
+-Developer: CatDaddy Games.
+-Published by 2K Games.
+-Platform: IOS, Android.
 
 [![nhl](https://api.2k.com/images/1505)]
 
