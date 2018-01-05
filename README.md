@@ -45,7 +45,7 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 
 ****
 
-### [A Handful Of Keflings]()
+### A Handful Of Keflings
 ![KeflingLogo](https://raw.githubusercontent.com/StickAndBindleGames/stickandbindlegames.github.io/master/Images/AHoK_logo_med.jpg)
 * To be released Q1 2018  
 * Capacity: Programmer / Game Developer (Ninjabee): C++ / Unreal Engine  
