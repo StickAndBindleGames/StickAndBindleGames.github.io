@@ -1,4 +1,4 @@
-Hi, and welcome :) My name is Tyran and you've found my portfolio of personal and professional projects. For any questions, feedback or offers, please email me at stickandbindlegames@gmail.com
+Hi, and welcome :) My name is Tyran and you've found my portfolio of personal and professional projects. For any questions, feedback or offers, please contact me at stickandbindlegames@gmail.com
 
 ----
 
