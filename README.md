@@ -12,7 +12,6 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 -Developer: CatDaddy Games.
 -Published by 2K Games.
 -Platform: IOS, Android.
-
 [![nhl](https://api.2k.com/images/1505)]
 
 ### [Carnival Games VR](http://store.steampowered.com/app/458920/Carnival_Games_VR/)
@@ -21,16 +20,18 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 -Developer: CatDaddy Games.
 -Published by 2K Games.
 -Platform: Vive, Oculus, Morpheus
+[![nhl](http://cdn.edgecast.steamstatic.com/steam/apps/458920/header.jpg?t=1510682744)]
 
 ### [Carnival Games® VR: Alley Adventure](http://store.steampowered.com/app/631690/Carnival_Games_VR_Alley_Adventure/)
 -Released in 2017
 -Capacity: Programmer / Game Developer (Wahoo Studios): C++.
 -Published by 2K Games.
 -Platform: Vive, Oculus, Morpheus
+[![nhl](http://cdn.edgecast.steamstatic.com/steam/apps/631690/header.jpg?t=1510685142)]
 
 ### [A Handful Of Keflings]()
 -Released in 2017
 -Capacity: Programmer / Game Developer (Wahoo Studios): C++ / Unreal Engine
 -Published and produced by Ninjabee
 -Platform: Vive, Oculus
-
+[![nhl](https://api.2k.com/images/1505)]
