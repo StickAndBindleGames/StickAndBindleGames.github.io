@@ -10,18 +10,25 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 ### [NHL Supercard](https://www.2k.com/games/nhl-supercard)
 [![NHLSupercard](https://api.2k.com/images/1505)]
 
--Capacity: Programmer/ Game Developer (Wahoo Studios): C++.
--Developer: CatDaddy Games.
--Published by 2K Games.
--Platform: IOS, Android.
+-Capacity: Programmer/ Game Developer (Wahoo Studios): C++
+
+-Developer: CatDaddy Games
+
+-Published by 2K Games
+
+-Platform: IOS, Android
 
 ### [Carnival Games VR](http://store.steampowered.com/app/458920/Carnival_Games_VR/)
 [![CarnivalGamesVR](http://cdn.edgecast.steamstatic.com/steam/apps/458920/header.jpg?t=1510682744)]
 
 -Released in 2016
--Capacity: Programmer / Game Developer (Wahoo Studios): C++.
--Developer: CatDaddy Games.
--Published by 2K Games.
+
+-Capacity: Programmer / Game Developer (Wahoo Studios): C++
+
+-Developer: CatDaddy Games
+
+-Published by 2K Games
+
 -Platform: Vive, Oculus, Morpheus
 
 
@@ -29,13 +36,20 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 [![CarnivalGamesVR_AlleyAdventure](http://cdn.edgecast.steamstatic.com/steam/apps/631690/header.jpg?t=1510685142)]
 
 -Released in 2017
--Capacity: Programmer / Game Developer (Wahoo Studios): C++.
--Published by 2K Games.
+
+-Capacity: Programmer / Game Developer (Wahoo Studios): C++
+
+-Published by 2K Games
+
 -Platform: Vive, Oculus, Morpheus
 
 
 ### [A Handful Of Keflings]()
--Released in 2017
+
+-To be released Q1 2018
+
 -Capacity: Programmer / Game Developer (Wahoo Studios): C++ / Unreal Engine
+
 -Published and produced by Ninjabee
+
 -Platform: Vive, Oculus
