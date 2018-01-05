@@ -51,4 +51,4 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 * Published and produced by Ninjabee  
 * Platform: Vive, Oculus  
 
-## [Modeling Detritus](stickandbindlegames.github.io/Modeling)
+## [Modeling Detritus](https://stickandbindlegames.github.io/Modeling/)
