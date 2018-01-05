@@ -50,3 +50,5 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 * Capacity: Programmer / Game Developer (Ninjabee): C++ / Unreal Engine  
 * Published and produced by Ninjabee  
 * Platform: Vive, Oculus  
+
+### [Modeling Detritus](stickandbindlegames.github.io/Modeling)
