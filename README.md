@@ -2,7 +2,7 @@ Hi, and welcome :) My name is Tyran and you've found my portfolio of personal an
 
 ----
 
-* This will become a table of contents (this text will be scraped).
+* Temp.
 {:toc}
 ----
 ## **Personal Projects:**  
