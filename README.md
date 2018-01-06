@@ -27,6 +27,7 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 ### Carnival Games VR
 [Official Site](http://store.steampowered.com/app/458920/Carnival_Games_VR/)  
 [![CarnivalGamesVR](http://cdn.edgecast.steamstatic.com/steam/apps/458920/header.jpg?t=1510682744)](http://store.steampowered.com/app/458920/Carnival_Games_VR/)  
+<iframe width="641" height="360" src="https://www.youtube.com/embed/yk5VnRRy4CA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>  
 * Released in 2016  
 * Capacity: Programmer / Game Developer (Wahoo Studios): C++  
 * Developer: CatDaddy Games  
