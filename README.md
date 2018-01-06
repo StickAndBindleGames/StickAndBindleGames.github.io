@@ -1,4 +1,7 @@
-Hi, and welcome :) My name is Tyran and you've found my portfolio of personal and professional projects. Please feel free to view my [resume](https://docs.google.com/document/d/1Vr_EDlRJShelAtfjWKWuWyGbRXdOtUaGFv_42nLTJS0/edit?usp=sharing). For any questions, feedback or offers, please contact me at [stickandbindlegames@gmail.com](mailto:stickandbindlegames@gmail.com). 
+Hi, and welcome :) My name is Tyran and you've found my portfolio of personal and professional projects. 
+Please feel free to view my [resume](https://docs.google.com/document/d/1Vr_EDlRJShelAtfjWKWuWyGbRXdOtUaGFv_42nLTJS0/edit?usp=sharing). 
+
+For any questions, feedback or offers, please contact me at [stickandbindlegames@gmail.com](mailto:stickandbindlegames@gmail.com). 
 
 ----
 
