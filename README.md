@@ -16,6 +16,7 @@ For any questions, feedback or offers, please contact me at [stickandbindlegames
 [![NHLSupercard](https://api.2k.com/images/1505)](https://www.2k.com/games/nhl-supercard) 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/MLHCtYs-UzA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 * Capacity: Programmer/ Game Developer (Wahoo Studios): C++
+* Tasks included game programming, general debugging and performance profiling.
 * Developer: CatDaddy Games  
 * Published by 2K Games  
 * Platform: IOS, Android  
@@ -27,7 +28,8 @@ For any questions, feedback or offers, please contact me at [stickandbindlegames
 [![CarnivalGamesVR](http://cdn.edgecast.steamstatic.com/steam/apps/458920/header.jpg?t=1510682744)](http://store.steampowered.com/app/458920/Carnival_Games_VR/)  
 <iframe width="641" height="360" src="https://www.youtube.com/embed/yk5VnRRy4CA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>  
 * Released in 2016  
-* Capacity: Programmer / Game Developer (Wahoo Studios): C++ / Proprietary Engine. Task responsibilities included game programming for various included games, leaderboards, VR UI objects, game flow for the alleyways. Creative VR problem solving for a multitude of game mechanics and obstacles. Performance profiling and general debugging.
+* Capacity: Programmer / Game Developer (Wahoo Studios): C++ / 3rd party in-house engine. 
+* Task responsibilities included general game programming for the included alley games, leaderboards, VR UI and menus, game flow for the alleyways. Worked cooperatively with designers to creatively problem solve VR obstacles for a multitude of game mechanics and obstacles. Performance profiling and general debugging.
 * Developer: CatDaddy Games  
 * Published by 2K Games  
 * Platform: Vive, Oculus, PS4 VR  
@@ -38,7 +40,8 @@ For any questions, feedback or offers, please contact me at [stickandbindlegames
 [Official Site](http://store.steampowered.com/app/631690/Carnival_Games_VR_Alley_Adventure/)  
 [![CarnivalGamesVR_AlleyAdventure](http://cdn.edgecast.steamstatic.com/steam/apps/631690/header.jpg?t=1510685142)](http://store.steampowered.com/app/631690/Carnival_Games_VR_Alley_Adventure/)
 * Released in 2017  
-* Capacity: Programmer / Game Developer (Wahoo Studios): C++ / Proprietary Engine. Task responsibilities included game programming for various included alley games, leaderboards, VR UI interface, and game flow for the alleyways. Creative VR problem solving for a multitude of game mechanics and obstacles. Performance profiling and general debugging.
+* Capacity: Programmer / Game Developer (Wahoo Studios): C++ / 3rd party in-house engine. 
+* Task responsibilities included general game programming for the included alley games, leaderboards, VR UI and menus, game flow for the alleyways. Worked cooperatively with designers to creatively problem solve VR obstacles for a multitude of game mechanics and obstacles. Performance profiling and general debugging.
 * Published by 2K Games  
 * Platform: Vive, Oculus, PS4 VR  
 
@@ -47,7 +50,8 @@ For any questions, feedback or offers, please contact me at [stickandbindlegames
 ### A Handful Of Keflings
 ![KeflingLogo](https://raw.githubusercontent.com/StickAndBindleGames/stickandbindlegames.github.io/master/Images/AHoK_logo_med.jpg)
 * To be released Q1 2018  
-* Capacity: Programmer / Game Developer (Ninjabee): C++ / Unreal Engine. Tasks included the achievement systems, Game front end, loading, saving games and the online subsystems. Integrating unreal blueprints with code / data structures. Online portals for Steam and Oculus. General debugging and performance profiling. Additionally assisted with the Unreal visual scripting blueperints.
+* Capacity: Programmer / Game Developer (Ninjabee): C++ / Unreal Engine. 
+* Tasks included integrating the online subsystems with our achievement systems, Game front end, player persistence for loading and saving games. Integrating unreal blueprints with code / data structures. Online portals for Steam and Oculus. General debugging and performance profiling. Additionally assisted with the Unreal visual scripting blueperints.
 * Published and produced by Ninjabee  
 * Platform: Vive, Oculus  
 
