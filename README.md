@@ -16,7 +16,8 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 
 ### NHL Supercard  
 [Official Site](https://www.2k.com/games/nhl-supercard)  
-[![NHLSupercard](https://api.2k.com/images/1505)](https://www.2k.com/games/nhl-supercard)  
+[![NHLSupercard](https://api.2k.com/images/1505)](https://www.2k.com/games/nhl-supercard) 
+<iframe width="854" height="480" src="https://www.youtube.com/embed/MLHCtYs-UzA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 * Capacity: Programmer/ Game Developer (Wahoo Studios): C++  
 * Developer: CatDaddy Games  
 * Published by 2K Games  
