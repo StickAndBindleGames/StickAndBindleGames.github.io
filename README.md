@@ -6,6 +6,7 @@ Hi, and welcome :) My name is Tyran and you've found my portfolio of personal an
 {:toc}
 ----
 ## **Professional Projects:**  
+[Resume](https://docs.google.com/document/d/1Vr_EDlRJShelAtfjWKWuWyGbRXdOtUaGFv_42nLTJS0/edit?usp=sharing)
 ----
 ----
 ### NHL Supercard  
