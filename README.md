@@ -33,7 +33,7 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 * Capacity: Programmer / Game Developer (Wahoo Studios): C++  
 * Developer: CatDaddy Games  
 * Published by 2K Games  
-* Platform: Vive, Oculus, Morpheus  
+* Platform: Vive, Oculus, PS4 VR  
 
 ----
 
@@ -43,7 +43,7 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 * Released in 2017  
 * Capacity: Programmer / Game Developer (Wahoo Studios): C++  
 * Published by 2K Games  
-* Platform: Vive, Oculus, Morpheus  
+* Platform: Vive, Oculus, PS4 VR  
 
 ****
 
