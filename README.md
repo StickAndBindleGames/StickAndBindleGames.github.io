@@ -11,8 +11,8 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 [![Logo](https://raw.githubusercontent.com/StickAndBindleGames/stickandbindlegames.github.io/master/Images/%20Logo.png)](https://stickandbindlegames.github.io/ProceduralMusicPlayer_Win/)  
 
 ----
-
 ## **Professional Projects:**  
+----
 
 ### NHL Supercard  
 [Official Site](https://www.2k.com/games/nhl-supercard)  
@@ -30,7 +30,7 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 [![CarnivalGamesVR](http://cdn.edgecast.steamstatic.com/steam/apps/458920/header.jpg?t=1510682744)](http://store.steampowered.com/app/458920/Carnival_Games_VR/)  
 <iframe width="641" height="360" src="https://www.youtube.com/embed/yk5VnRRy4CA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>  
 * Released in 2016  
-* Capacity: Programmer / Game Developer (Wahoo Studios): C++  
+* Capacity: Programmer / Game Developer (Wahoo Studios): C++ / Proprietary Engine
 * Developer: CatDaddy Games  
 * Published by 2K Games  
 * Platform: Vive, Oculus, PS4 VR  
@@ -41,7 +41,7 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 [Official Site](http://store.steampowered.com/app/631690/Carnival_Games_VR_Alley_Adventure/)  
 [![CarnivalGamesVR_AlleyAdventure](http://cdn.edgecast.steamstatic.com/steam/apps/631690/header.jpg?t=1510685142)](http://store.steampowered.com/app/631690/Carnival_Games_VR_Alley_Adventure/)
 * Released in 2017  
-* Capacity: Programmer / Game Developer (Wahoo Studios): C++  
+* Capacity: Programmer / Game Developer (Wahoo Studios): C++ / Proprietary Engine
 * Published by 2K Games  
 * Platform: Vive, Oculus, PS4 VR  
 
@@ -53,6 +53,8 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 * Capacity: Programmer / Game Developer (Ninjabee): C++ / Unreal Engine  
 * Published and produced by Ninjabee  
 * Platform: Vive, Oculus  
+
+----
 
 ## [Modeling Detritus](https://stickandbindlegames.github.io/Modeling/)
 
