@@ -50,7 +50,7 @@ For any questions, feedback or offers, please contact me at [stickandbindlegames
 ### A Handful Of Keflings
 [Official Site](http://store.steampowered.com/app/643950/A_Handful_of_Keflings/)  
 ![KeflingLogo](https://raw.githubusercontent.com/StickAndBindleGames/stickandbindlegames.github.io/master/Images/AHoK_logo_med.jpg)
-* To be released Q1 2018  
+* Released 2018 
 * Capacity: Programmer / Game Developer (Ninjabee): C++ / Unreal Engine. 
 * Tasks included integrating the online subsystems with our achievement systems, Game front end, player persistence for loading and saving games. Integrating unreal blueprints with code / data structures. Online portals for Steam and Oculus. General debugging and performance profiling. Additionally assisted with the Unreal visual scripting blueperints.
 * Published and produced by Ninjabee  
