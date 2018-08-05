@@ -58,7 +58,7 @@ For any questions, feedback or offers, please contact me at [stickandbindlegames
 
 ### Solitaire - Mobilityware
 [Official Site](http://mobilityware.com/solitaire.php#solitaire)  
-[![Solitaire-Mobilityware](http://mobilityware.com/rs/images/solitaire_suite_page/solitaire/solitaire_s1.jpg) 
+[![Solitaire-Mobilityware](http://mobilityware.com/rs/images/solitaire_suite_page/solitaire/solitaire_app_info.png)
 * Capacity: Software Engineer - Unity, C#, Android, IOS
 * Tasks included game programming, development, general debugging and performance profiling.
 * Developed and published by Mobilityware
