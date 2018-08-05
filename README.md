@@ -56,6 +56,14 @@ For any questions, feedback or offers, please contact me at [stickandbindlegames
 * Published and produced by Ninjabee  
 * Platform: Vive, Oculus  
 
+### Solitaire - Mobilityware
+[Official Site](http://mobilityware.com/solitaire.php#solitaire)  
+[![Solitaire-Mobilityware](http://mobilityware.com/rs/images/solitaire_suite_page/solitaire/solitaire_s1.jpg) 
+* Capacity: Software Engineer - Unity, C#, Android, IOS
+* Tasks included game programming, development, general debugging and performance profiling.
+* Developed and published by Mobilityware
+* Platform: IOS, Android  
+
 ----
 ## **Personal Projects:**  
 ----
