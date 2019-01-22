@@ -1,7 +1,7 @@
 Hi, and welcome :) My name is Tyran and you've found my portfolio of personal and professional projects. 
 Please feel free to view my [resume](https://docs.google.com/document/d/1Vr_EDlRJShelAtfjWKWuWyGbRXdOtUaGFv_42nLTJS0/edit?usp=sharing). 
 
-For any questions, feedback or offers, please contact me at [stickandbindlegames@gmail.com](mailto:stickandbindlegames@gmail.com). 
+For any questions, feedback or offers, please contact me at [stickandbindlegames@protonmail.com](mailto:stickandbindlegames@protonmail.com). 
 
 ----
 
@@ -61,6 +61,17 @@ For any questions, feedback or offers, please contact me at [stickandbindlegames
 ### Solitaire - Mobilityware
 [Official Site](https://play.google.com/store/apps/details?id=com.mobilityware.solitaire&hl=en_US)  
 ![Solitaire-Mobilityware](https://lh3.googleusercontent.com/GKp0pzacXTx1pq7PvRoD5wyChjb2tTsW_85W3-f0KZXz5ehE77YlsiUfwnpirrq-Mg=s180)
+* Released 2018 
+* Capacity: Software Engineer (Mobilityware): Unity, C#, Android, IOS
+* Tasks included game programming, development, porting existing codebase, data and user profiles from java to C#/Unity, general debugging and performance profiling.
+* Developed and published by Mobilityware
+* Platform: IOS, Android  
+
+----
+
+### Spider Solitaire - Mobilityware
+[Official Site](https://play.google.com/store/apps/details?id=com.mobilityware.spider&hl=en_US)  
+![Spider Solitaire-Mobilityware](https://lh3.googleusercontent.com/L5SicPHwNaeuMPkQikseSWAeaWSsJw7ujWK82oWHr4UZ79Di0_FxX3QnnNcdNK2Clmtx=s180)
 * Released 2018 
 * Capacity: Software Engineer (Mobilityware): Unity, C#, Android, IOS
 * Tasks included game programming, development, porting existing codebase, data and user profiles from java to C#/Unity, general debugging and performance profiling.
