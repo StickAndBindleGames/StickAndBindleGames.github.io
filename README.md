@@ -87,7 +87,7 @@ For any questions, feedback or offers, please contact me at [stickandbindlegames
 A personal project developed in mid-2017. Available on the [Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/content/99791). Originally developed for personal use in my games, but it was handy and neat, so I developed a more robust user interface and additional features and released publicly in September 2017.  Developed in C#. Working with music theory and sound provided many unique challenges to overcome, but it was a great learning experience for creative programming, UI design and music theory.
 [![Logo](https://raw.githubusercontent.com/StickAndBindleGames/stickandbindlegames.github.io/master/Images/%20Logo.png)](https://stickandbindlegames.github.io/ProceduralMusicPlayer_Win/)  
 
-<div style="position:relative;height:0;padding-bottom:56.21%"><iframe src="https://www.youtube.com/embed/kDLc6GFdZTk" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<iframe width="641" height="360" src="https://www.youtube.com/embed/kDLc6GFdZTk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ----
 ## [Modeling Detritus ->](https://stickandbindlegames.github.io/Modeling/)
