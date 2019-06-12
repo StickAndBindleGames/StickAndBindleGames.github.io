@@ -22,7 +22,6 @@ For any questions, feedback or offers, please contact me at [stickandbindlegames
 [Crown](https://play.google.com/store/apps/details?id=com.mobilityware.CrownSolitaire)  
 [Castle](https://play.google.com/store/apps/details?id=com.mobilityware.CastleSolitaire)  
 [Addiction](https://play.google.com/store/apps/details?id=com.mobilityware.AddictionSolitaire)  
-![Solitaire-Mobilityware](https://lh3.googleusercontent.com/GKp0pzacXTx1pq7PvRoD5wyChjb2tTsW_85W3-f0KZXz5ehE77YlsiUfwnpirrq-Mg=s180)
 * Released 2018-2019 
 * Capacity: Software Engineer (Mobilityware): Unity, C#, Android, IOS
 * Development and maintenance of mobile card suite with over 10 million daily users.
