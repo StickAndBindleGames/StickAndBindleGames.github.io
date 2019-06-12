@@ -86,9 +86,9 @@ A personal project developed in mid-2017. Available on the [Unity Asset Store](h
 [![Logo](https://raw.githubusercontent.com/StickAndBindleGames/stickandbindlegames.github.io/master/Images/%20Logo.png)](https://stickandbindlegames.github.io/ProceduralMusicPlayer_Win/)  
  
 ----
-## [Modeling Detritus](https://stickandbindlegames.github.io/Modeling/)
+## [Modeling Detritus ->](https://stickandbindlegames.github.io/Modeling/)
 ----
 ----
-## [Personal Prototypes](https://stickandbindlegames.github.io/Prototypes/)
+## [Personal Prototypes ->](https://stickandbindlegames.github.io/Prototypes/)
 ----
 ----
